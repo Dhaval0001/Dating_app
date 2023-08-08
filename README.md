@@ -1,4 +1,5 @@
-# Dating_app
+# Dating_app 
+Connect...And start a new journey
 
 A new Flutter project for a dating app.
 
